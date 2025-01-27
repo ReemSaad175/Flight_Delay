@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Load dataset
-df = pd.read_csv("D:/Data Science/Mid Project/mid project/Flight_Delay.csv")
+df = pd.read_csv("Flight_Delay.csv")
 
 st.title("Airline Delay Cause Analysis")
 
